@@ -1,7 +1,6 @@
 package dev.idee.cicdandroid
 
 import android.util.Log
-import androidx.annotation.VisibleForTesting
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import retrofit2.Call
